@@ -6,11 +6,11 @@ GitHub: [Empirecodes](hhttps://github.com/Empirezoom)
 
 ---
 
-🌱 I’m currently interested in **Full Stack web development**   
+🌱 I’m currently exploring new skills beyond Full Stack Web Development development, from Front end development to Backend Development with Django and creative problem-solving.  
 
-👨‍💻 All of my projects are available at [empire.codes](https://empire.codes)   
+👨‍💻 All of my projects are available at [empire.codes](https://empire.codes)  
 
-💬 Ask me about **Anything Web Development!**   
+💬 Ask me about tech, coding, or anything curious you’re exploring!  **Anything Web Development!** 
 
 📫 How to reach me: [matthew123224@gmail.com](mailto:matthew123224@gmail.com)   
 
