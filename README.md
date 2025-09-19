@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anthony Matthew (EmpireCodes)
  Anthony Oluwaseun Matthew
 **Software Engineer and Full Stack Web  Developer**   
-GitHub: [Empirecodes](hhttps://github.com/Empirezoom) 
+GitHub: [Empirecodes](https://github.com/Empirezoom) 
 
 ---
 
@@ -45,3 +45,11 @@ GitHub: [Empirecodes](hhttps://github.com/Empirezoom)
 ### GitHub Stats
 ![Empirezoom's GitHub Stats](https://your-custom-python-app.com/api?username=ayomidemi&show_icons=true&theme=radicall) 
 ![Top Langs](https://your-custom-python-app.com/api?username=ayomidemi&show_icons=true&theme=radical
+
+
+
+
+### 💡 Fun Animated Badges
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+build+full+stack+projects;Always+learning+new+things&center=true&width=600&height=50)](https://git.io/typing-svg)
+
+[![Profile views](https://komarev.com/ghpvc/?username=Empirezoom&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Empirezoom)
