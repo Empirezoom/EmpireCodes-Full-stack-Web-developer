@@ -54,7 +54,7 @@ GitHub: [Empirecodes](https://github.com/Empirezoom)
 ---
 
 ### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/ayomidemi/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Empirezoom/count.svg)
 
 ---
 
