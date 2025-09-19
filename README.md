@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Software+Engineer;Full+Stack+Web+Developer;Obsessive+Math+Lover" alt="Typing SVG" /> </p>
 **Software Engineer and Full Stack Web  Developer**   
 GitHub: [Empirecodes](https://github.com/Empirezoom) 
-
+---
+### Latest Blog Posts
 ---
 
 🌱 I’m currently exploring new skills beyond Full Stack Web Development development, from Front end development to Backend Development with Django and creative problem-solving.  
@@ -58,3 +59,6 @@ GitHub: [Empirecodes](https://github.com/Empirezoom)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+build+full+stack+projects;Always+learning+new+things&center=true&width=600&height=50)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Empirezoom&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Empirezoom)
+
+
+
