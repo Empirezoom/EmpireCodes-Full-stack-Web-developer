@@ -1,5 +1,6 @@
 # Hi 👋, I'm Anthony Matthew (EmpireCodes)
- Anthony Oluwaseun Matthew
+### Welcome to my GitHub Profile!
+<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Software+Engineer;Full+Stack+Web+Developer;Obsessive+Math+Lover" alt="Typing SVG" /> </p>
 **Software Engineer and Full Stack Web  Developer**   
 GitHub: [Empirecodes](https://github.com/Empirezoom) 
 
