@@ -53,11 +53,6 @@ GitHub: [Empirecodes](https://github.com/Empirezoom)
 
 ---
 
-### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Empirezoom/count.svg)
-
----
-
 ### 💡 Fun Animated Badges
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+build+full+stack+projects;Always+learning+new+things&center=true&width=600&height=50)](https://git.io/typing-svg)
 
