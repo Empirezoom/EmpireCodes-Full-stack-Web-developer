@@ -46,6 +46,12 @@ GitHub: [Empirecodes](https://github.com/Empirezoom)
 ![Empirezoom's GitHub Stats](https://your-custom-python-app.com/api?username=ayomidemi&show_icons=true&theme=radicall) 
 ![Top Langs](https://your-custom-python-app.com/api?username=ayomidemi&show_icons=true&theme=radical
 
+
+
+### GitHub Stats
+![Empire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Empirezoom&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirezoom&layout=compact&theme=radical)
+
 ---
 
 ### Visitor Count
